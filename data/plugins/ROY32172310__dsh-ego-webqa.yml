@@ -1,0 +1,6 @@
+url: https://github.com/ROY32172310/dsh-ego-webqa
+name: ROY32172310/dsh-ego-webqa
+category: browser
+description:
+  en: Adds an ego-webqa MCP server that audits deployed pages across the mobile viewport matrix and returns structured repair evidence.
+  zh: 将 ego-webqa 的 MCP 审计服务接入 DSH，在移动端视口矩阵中检查已部署页面并返回结构化修复证据。
